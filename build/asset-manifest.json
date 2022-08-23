@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b19215a6.css",
+    "main.js": "/static/js/main.81449e27.js",
+    "static/media/lake-background.jpg": "/static/media/lake-background.f9a876b473cd3d6420ae.jpg",
+    "index.html": "/index.html",
+    "main.b19215a6.css.map": "/static/css/main.b19215a6.css.map",
+    "main.81449e27.js.map": "/static/js/main.81449e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19215a6.css",
+    "static/js/main.81449e27.js"
+  ]
+}
